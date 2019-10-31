@@ -1,3 +1,4 @@
 def main():
     print("Hello World in Python!\n")
-main()
+if __name__ == "__main__":
+    main()
